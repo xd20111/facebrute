@@ -1,3 +1,7 @@
+## Author: github.com/xd20111
+## IG: instagram.com/xd_20111
+### Don't copy this code without give me the credits!
+
 # Facebook-BruteForce
 bruteforce attack on facebook account script in python
 
