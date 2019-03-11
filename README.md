@@ -2,7 +2,7 @@
 ## IG: instagram.com/xd_20111
 ### Don't copy this code without give me the credits!
 
-# Facebook-BruteForce
+# FaceForce
 bruteforce attack on facebook account script in python
 
 ## Install Requirements(Linux)
@@ -27,5 +27,6 @@ www.yourhacker.tk
 
 https://www.facebook.com/groups/cyberwarriorz
 
+# Hack The Corrupt Give To Poor
 Happy Hacking! (Please do not spam it, It's Just For Knowledge ...).
 
